@@ -3,17 +3,14 @@
 
 @import "minima";
 
-/* Hide the main page title */
-.page-content .page-heading {
-  display: none !important;
+.page-content > .wrapper > h1:first-child {
+  display: none;
 }
 
-/* Hide the top-right navigation */
 .site-nav {
-  display: none !important;
+  display: none;
 }
 
-/* Hide the duplicate footer name */
 .footer-col-1 {
-  display: none !important;
+  display: none;
 }
