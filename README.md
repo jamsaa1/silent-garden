@@ -27,7 +27,7 @@ Silent Garden is not about recreating the past, but to reinterpret its strongest
 The first collection is a conceptual exploration of everyday essentials.
 
 1. **Snow Leopard Denim** — classic straight-leg denim cut with added details.
-2. **Poem T-Shirt ** — slub cotton tee with vintage character.
+2. **Poem T-Shirt** — slub cotton tee with vintage character.
 3. **Sage Knit** — a simple knitwear piece in a muted, earthy colour.
 
 These pieces represent the proposed direction of the brand rather than products currently available for sale.
