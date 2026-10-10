@@ -1,17 +1,7 @@
+
 ---
 ---
 
 @import "{{ site.theme }}";
 
-h1.page-heading {
-  display: none !important;
-}
-
-.site-nav {
-  display: none !important;
-}
-
-.site-footer .footer-col-1 {
-  display: none !important;
-}
-
+@import "../main";
