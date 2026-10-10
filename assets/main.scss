@@ -15,7 +15,6 @@
   display: none !important;
 }
 
-/* Silent Garden — visual identity */
 
 :root {
   --ivory: #f5f1e8;
@@ -149,7 +148,6 @@ body {
   }
 }
 
-/* Silent Garden — The Archive moodboard */
 
 .page-content h2#the-archive {
   margin-bottom: 12px;
@@ -170,12 +168,12 @@ body {
   margin: 0;
 }
 
-/* Large editorial photograph */
+
 .page-content h2#the-archive ~ p:has(img[src*="archive-beach"]) {
   width: 64%;
 }
 
-/* Give the graphic references different proportions */
+
 .page-content h2#the-archive ~ p:has(img[src*="angel-graphic"]),
 .page-content h2#the-archive ~ p:has(img[src*="jeans-1"]),
 .page-content h2#the-archive ~ p:has(img[src*="tiger-2"]) {
@@ -186,7 +184,7 @@ body {
   width: 22%;
 }
 
-/* Mobile layout */
+
 @media screen and (max-width: 600px) {
   .page-content h2#the-archive ~ p:has(img) {
     width: 100% !important;
