@@ -5,15 +5,15 @@
 
 /* Hide the main page title */
 .page-content .page-heading {
-  display: none;
+  display: none !important;
 }
 
 /* Hide the top-right navigation */
 .site-nav {
-  display: none;
+  display: none !important;
 }
 
 /* Hide the duplicate footer name */
 .footer-col-1 {
-  display: none;
+  display: none !important;
 }
