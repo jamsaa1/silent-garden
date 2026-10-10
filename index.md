@@ -21,7 +21,17 @@ Inspired by vintage clothing, traditional materials and everyday life, our garme
 
 ## The Archive
 
-A collection of visual references and concept designs exploring faded memories, vintage graphics, traditional artwork and the imperfect character of analogue photography.
+A collection of visual references and concept designs exploring vintage graphics, traditional artwork and the imperfect character of analogue photography.
+
+![A grainy black and white photograph of the sea](assets/images/archive-beach.jpg)
+
+![A loose pencil sketch of a horse](assets/images/archive-sketch.jpg)
+
+![An ivory graphic T-shirt featuring a Buddha illustration](assets/images/buddha-tee.jpg)
+
+![A faded angel graphic with handwritten typography](assets/images/angel-graphic.jpg)
+
+![A washed black graphic T-shirt](assets/images/cry-of-love-tee.jpg)
 
 ## SG_01 — Concept Collection
 
