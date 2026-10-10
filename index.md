@@ -3,8 +3,6 @@ title: Silent Garden
 description: An independent clothing brand inspired by sophisticated vintage fashion.
 ---
 
-# SILENT GARDEN
-
 Founded in 2025, Silent Garden is a clothing brand concept inspired by sophisticated vintage fashion, timeless silhouettes and understated individuality.
 
 ---
