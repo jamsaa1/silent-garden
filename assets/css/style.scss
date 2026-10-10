@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the page title in the main content */
+.page-content .page-heading {
+  display: none;
+}
+
+/* Hide the site title in the top-right navigation */
+.site-nav {
+  display: none;
+}
+
+/* Hide the duplicate site name in the footer */
+.footer-col-1 {
+  display: none;
+}
