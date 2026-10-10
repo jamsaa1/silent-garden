@@ -1,16 +1,17 @@
 ---
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
-.page-content > .wrapper > h1:first-child {
-  display: none;
+h1.page-heading {
+  display: none !important;
 }
 
 .site-nav {
-  display: none;
+  display: none !important;
 }
 
-.footer-col-1 {
-  display: none;
+.site-footer .footer-col-1 {
+  display: none !important;
 }
+
