@@ -21,15 +21,27 @@ Inspired by vintage clothing, traditional materials and everyday life, our garme
 
 ## The Archive
 
-A collection of visual references and concept designs exploring vintage graphics, traditional artwork and the imperfect character of analogue photography.
+A collection of visual references and concept designs exploring vintage graphics, traditional artwork, worn textures and the imperfect character of analogue photography.
 
 ![A grainy black and white photograph of the sea](assets/images/archive-beach.jpg)
 
-![An ivory graphic T-shirt featuring a Buddha illustration](assets/images/buddha-tee.jpg)
+![Buddha artwork](assets/images/buddha.jpg)
 
 ![A faded angel graphic with handwritten typography](assets/images/angel-graphic.jpg)
 
+![An ivory graphic T-shirt featuring a Buddha illustration](assets/images/buddha-tee.jpg)
+
 ![A washed black graphic T-shirt](assets/images/cry-of-love-tee.jpg)
+
+![Vintage denim reference](assets/images/jeans-1.jpg)
+
+![Second vintage denim reference](assets/images/jeans-2.jpg)
+
+![A worn vintage texture](assets/images/texture-1.jpg)
+
+![Tiger artwork](assets/images/tiger.jpg)
+
+![Second tiger artwork](assets/images/tiger-2.jpg)
 
 ## SG_01 — Concept Collection
 
