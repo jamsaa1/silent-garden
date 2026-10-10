@@ -34,4 +34,4 @@ These pieces represent the proposed direction of the brand rather than products 
 
 ---
 
-*Silent Garden — Independent by design.*
+*Silent Garden — est. 2025*
