@@ -1,19 +1,20 @@
+
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
-/* Hide the page title in the main content */
+/* Hide the main page title */
 .page-content .page-heading {
   display: none;
 }
 
-/* Hide the site title in the top-right navigation */
+/* Hide the top-right navigation */
 .site-nav {
   display: none;
 }
 
-/* Hide the duplicate site name in the footer */
+/* Hide the duplicate footer name */
 .footer-col-1 {
   display: none;
 }
