@@ -25,8 +25,6 @@ A collection of visual references and concept designs exploring vintage graphics
 
 ![A grainy black and white photograph of the sea](assets/images/archive-beach.jpg)
 
-![A loose pencil sketch of a horse](assets/images/archive-sketch.jpg)
-
 ![An ivory graphic T-shirt featuring a Buddha illustration](assets/images/buddha-tee.jpg)
 
 ![A faded angel graphic with handwritten typography](assets/images/angel-graphic.jpg)
