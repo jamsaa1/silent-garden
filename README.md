@@ -20,8 +20,6 @@ Inspired by vintage clothing, traditional materials and everyday life, our garme
 
 The visual direction draws inspiration from vintage garments, worn leather, classic cuts and the imperfect character of analogue photography.
 
-Silent Garden is not about recreating the past, but to reinterpret its strongest elements through a modern lens.
-
 ## SG_01 — Concept Collection
 
 The first collection is a conceptual exploration of everyday essentials.
