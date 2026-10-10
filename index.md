@@ -34,5 +34,3 @@ The first collection is a conceptual exploration of everyday essentials.
 These pieces represent the proposed direction of the brand rather than products currently available for sale.
 
 ---
-
-*Silent Garden — est. 2025*
