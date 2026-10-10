@@ -14,3 +14,137 @@
 .site-footer h2.footer-heading {
   display: none !important;
 }
+
+/* Silent Garden — visual identity */
+
+:root {
+  --ivory: #f5f1e8;
+  --paper: #faf8f3;
+  --espresso: #403329;
+  --olive: #74765a;
+  --muted: #82796e;
+  --line: #d9d1c5;
+}
+
+body {
+  background-color: var(--paper);
+  color: var(--espresso);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  letter-spacing: 0.01em;
+}
+
+.wrapper {
+  max-width: 960px;
+}
+
+.site-header {
+  background: var(--paper);
+  border-top: 3px solid var(--espresso);
+  border-bottom: 1px solid var(--line);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--espresso);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 29px;
+  letter-spacing: -1.2px;
+}
+
+.page-content {
+  padding-top: 52px;
+  padding-bottom: 70px;
+}
+
+.page-content h2 {
+  color: var(--espresso);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  margin-top: 36px;
+  margin-bottom: 16px;
+}
+
+.page-content h2::after {
+  content: "";
+  display: block;
+  width: 36px;
+  margin-top: 10px;
+  border-bottom: 1px solid var(--olive);
+}
+
+.page-content p {
+  max-width: 760px;
+}
+
+.page-content hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 30px 0;
+}
+
+.page-content table {
+  border: 1px solid var(--line);
+  color: var(--espresso);
+  font-size: 14px;
+}
+
+.page-content table th {
+  background: var(--ivory);
+  border-color: var(--line);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 11px;
+}
+
+.page-content table td {
+  border-color: var(--line);
+}
+
+.page-content table tr:nth-child(even) {
+  background: #f2eee6;
+}
+
+.page-content a {
+  color: var(--olive);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.page-content strong {
+  color: var(--espresso);
+}
+
+.site-footer {
+  background: var(--ivory);
+  border-top: 1px solid var(--line);
+  padding: 36px 0;
+}
+
+.site-footer,
+.site-footer a {
+  color: var(--muted);
+}
+
+.site-footer .footer-heading {
+  display: none !important;
+}
+
+@media screen and (max-width: 600px) {
+  .page-content {
+    padding-top: 30px;
+    padding-bottom: 45px;
+  }
+
+  .site-title,
+  .site-title:visited {
+    font-size: 25px;
+  }
+
+  .page-content table {
+    font-size: 12px;
+  }
+}
