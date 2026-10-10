@@ -21,7 +21,7 @@ Inspired by vintage clothing, traditional materials and everyday life, our garme
 
 ## The Archive
 
-The visual direction draws inspiration from vintage garments, worn leather, classic cuts and the imperfect character of analogue photography.
+A collection of visual references and concept designs exploring faded memories, vintage graphics, traditional artwork and the imperfect character of analogue photography.
 
 ## SG_01 — Concept Collection
 
